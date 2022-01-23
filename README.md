@@ -1,5 +1,6 @@
 ### faer
 Cybersecurity student, Programmer of 7+ years
+
 Notable projects I've worked on:
    - Phoenix Rainbow Six: Siege
 
